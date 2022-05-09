@@ -1,0 +1,61 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;font-family: 'Kumbh Sans', sans-serif;
+
+}
+body{
+    background-color: hsl(185, 75%, 39%);
+}
+
+.container{
+    height: 100vh;
+   display: flex;
+    justify-content: center;
+    align-items: center;
+
+    
+}
+
+.item{
+    height: 400px;
+    width: 400px;
+    background-color:white;
+    border-radius: 25px;
+    overflow: hidden;
+}
+img{
+    width: 100%;
+}
+
+.text{
+    text-align: center;
+    margin-top: 60px;
+}
+
+.avtar{
+    height: 100px;
+    width:100px;
+    border-radius: 50%;
+    margin: -12% 35%;
+    border:2px solid white;
+}
+.f1{
+    display: flex;
+    align-content: center;
+    text-align: center;
+    margin-top: 30px;
+    font-family: 'Kumbh Sans', sans-serif;
+    te
+}
+
+.follower{
+    padding-left: 40px;
+    
+}
+.follower1{
+    padding-left:50px;
+}
+.follower2{
+    padding-left: 50px;
+}
